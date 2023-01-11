@@ -21,7 +21,7 @@
 
 # 6)DES
 # Output:
-
+![image](https://user-images.githubusercontent.com/112242851/211768595-20e5b9b6-8139-4744-a7f8-26425a064063.png)
 
 # 7)RSA ALGORITHM
 # Output:
