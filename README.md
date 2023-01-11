@@ -19,6 +19,10 @@
 # Output:
 ![image](https://user-images.githubusercontent.com/112242851/211563133-5b2257d8-1af8-4dac-a2aa-7f3fe70d9b16.png)
 
+# 6)DES
+# Output:
+
+
 # 7)RSA ALGORITHM
 # Output:
 ![image](https://user-images.githubusercontent.com/112242851/211563551-b6307a5d-6e6e-427d-a792-a4d032fab9f7.png)
@@ -26,4 +30,8 @@
 # 8)DEFFIE HELLMAN 
 # Output:
 ![image](https://user-images.githubusercontent.com/112242851/211563913-83e9fbbf-af7b-45d3-aeaa-04b780f2c607.png)
+
+# 11)DIGITAL SIGNATURE STANDARD
+# Output:
+![image](https://user-images.githubusercontent.com/112242851/211763270-96c6d28d-bef2-4c58-99c7-ce630ca6dad8.png)
 
